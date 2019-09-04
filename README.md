@@ -1,3 +1,11 @@
+# Notice!
+
+I forked this package from the good guys at [Spatie.be](https://spatie.be/)
+I did this only so that I can make it support Laravel 5.8, because a project I am working on depends on this package, and it was stuck on 5.7 because of it.
+
+If you also use this package, I would be happy to review any pull requests you might have for it.
+
+
 **THIS PACKAGE IS NOT MAINTAINED ANYMORE**
 
 Alternatives: https://github.com/michaeldyrynda/laravel-efficient-uuid & https://github.com/michaeldyrynda/laravel-model-uuid

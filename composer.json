@@ -1,11 +1,12 @@
 {
-    "name": "spatie/laravel-binary-uuid",
+    "name": "maidomax/laravel-binary-uuid",
     "description": "Binary support for UUIDs in Laravel",
     "keywords": [
         "spatie",
+        "maidomax",
         "laravel-binary-uuid"
     ],
-    "homepage": "https://github.com/spatie/laravel-binary-uuid",
+    "homepage": "https://github.com/maidomax/laravel-binary-uuid",
     "license": "MIT",
     "authors": [
         {
@@ -13,11 +14,17 @@
             "email": "brent@spatie.be",
             "homepage": "https://spatie.be",
             "role": "Developer"
+        },
+        {
+            "name": "Mladen Danic",
+            "email": "maidomax@yahoo.com",
+            "homepage": "https://maidomax.com",
+            "role": "Developer"
         }
     ],
     "require": {
         "php": "^7.1",
-        "illuminate/queue": "~5.5.28|~5.6.0|~5.7.0",
+        "illuminate/queue": "~5.5.28|~5.6.0|~5.7.0|~5.8.0",
         "ramsey/uuid": "^3.7"
     },
     "require-dev": {
