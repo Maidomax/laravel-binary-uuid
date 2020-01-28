@@ -5,11 +5,6 @@ I did this only so that I can make it support Laravel 5.8, because a project I a
 
 If you also use this package, I would be happy to review any pull requests you might have for it.
 
-
-**THIS PACKAGE IS NOT MAINTAINED ANYMORE**
-
-Alternatives: https://github.com/michaeldyrynda/laravel-efficient-uuid & https://github.com/michaeldyrynda/laravel-model-uuid
-
 # Using optimised binary UUIDs in Laravel
 
 [![Latest Version on Packagist](https://img.shields.io/packagist/v/spatie/laravel-binary-uuid.svg?style=flat-square)](https://packagist.org/packages/spatie/laravel-binary-uuid)
