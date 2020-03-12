@@ -3,6 +3,8 @@
 I forked this package from the good guys at [Spatie.be](https://spatie.be/)
 I did this only so that I can make it support Laravel 5.8, because a project I am working on depends on this package, and it was stuck on 5.7 because of it.
 
+It now supports Laravel version 7.* with the 2.0 tag
+
 If you also use this package, I would be happy to review any pull requests you might have for it.
 
 # Using optimised binary UUIDs in Laravel
