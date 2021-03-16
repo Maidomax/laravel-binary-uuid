@@ -29,7 +29,7 @@ The package currently only supports MySQL and SQLite.
 You can install the package via Composer:
 
 ```bash
-composer require spatie/laravel-binary-uuid
+composer require maidomax/laravel-binary-uuid
 ```
 
 ## Usage
